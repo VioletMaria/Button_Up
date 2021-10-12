@@ -1,0 +1,33 @@
+* {
+    margin: 5px;
+}
+
+.search button {
+    margin-top: 30px;
+    width: 150px;
+    height: 35px;
+    background-color: whitesmoke;
+    border: 2px solid teal;
+    border-radius: 20px;
+    color: teal;
+    font-weight: bold;
+}
+
+.plus button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 20px;
+    color: white;
+    background-color: teal;
+    border-color: transparent;
+}
+
+.create button {
+    background-color: rgb(72, 144, 228);
+    color: white;
+    border: 2px solid black;
+    width: 200px;
+    height: 45px;
+    box-shadow: 5px 5px 2px 1px black;
+}
